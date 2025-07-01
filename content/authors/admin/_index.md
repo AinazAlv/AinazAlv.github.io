@@ -45,10 +45,10 @@ profiles:
 #  - icon: academicons/orcid
 #    url: https://orcid.org/
 
-interests:
-  - Adverserial Machine Learning
-  - Fairness and Ethics in AI
-  - AI Alignment and Safety
+#interests:
+# - <span class="text-pink-600">Adversarial Machine Learning</span>
+# - <span class="text-green-600">Fairness and Ethics in AI</span>
+# - <span class="text-blue-600">AI Alignment and Safety</span>
 
 education:
 #  - area: PhD Artificial Intelligence ( i wish! )
@@ -179,8 +179,17 @@ awards:
     summary: |
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
+<h2 style="color:#000000;">About me</h2>
 
-## About me
-
-I'm a researcher by day and a dancer by night.
+<p style="color:#000000;">
+I'm a researcher by day and a dancer by night.<br>
 I'm working and studying at Ontario Tech University, and my goal in life is to experience everything to its fullest and cross as many things off my bucket list as I can!
+</p>
+
+<h3 style="color:#000000;">Interests</h3>
+
+<ul style="color:#000000;">
+  <li>Adversarial Machine Learning</li>
+  <li>Fairness and Ethics in AI</li>
+  <li>AI Alignment and Safety</li>
+</ul>

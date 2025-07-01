@@ -1,0 +1,11 @@
+/* Make name/title black */
+.blox-resume-biography-3 h1,
+.blox-resume-biography-3 .portrait-title {
+  color: #100153 !important;
+}
+
+/* Make social icons black */
+.network-icon svg {
+  color: #000000 !important;
+  fill: #000000 !important;
+}
