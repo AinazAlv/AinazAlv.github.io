@@ -24,7 +24,7 @@ sections:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: stacked-peaks.svg
+          filename: stack.svg
           filters:
             brightness: 1.0
           size: cover
@@ -35,11 +35,14 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        I'm a second year graduate student working on the reliability of machine learning models in forensic science more specifically, blood pattern analysis.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
+        Right now, I’m exploring the technologies being used in the forensic field and asking: what are the issues with these technologies?
+
+        What I enjoy the most is applying my computer science expertise in other fields. I’ve done that before with business, and now with forensics, helping to close the gap between different worlds.
+
+        Feel free to reach out for potential collaborations.
+
     design:
       columns: '1'
   - block: collection

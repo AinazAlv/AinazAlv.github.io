@@ -24,9 +24,8 @@ role: Research Assistant
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Ontario Tech 
-    url: https://openai.com/
-
+  - name: Ontario Tech - Trustworthy AI Lab
+    url: https://www.trustworthyai.ca/
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
@@ -47,8 +46,8 @@ profiles:
 #    url: https://orcid.org/
 
 interests:
-  - Adverserial Machiine Learning
-  - Fairness, Accountability, and Ethics in AI
+  - Adverserial Machine Learning
+  - Fairness and Ethics in AI
   - AI Alignment and Safety
 
 education:
@@ -181,6 +180,7 @@ awards:
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-## About Me
+## About me
 
-I'm Ainaz and I finally have a Website of my own Hooray
+I'm a researcher by day and a dancer by night.
+I'm working and studying at Ontario Tech University, and my goal in life is to experience everything to its fullest and cross as many things off my bucket list as I can!
